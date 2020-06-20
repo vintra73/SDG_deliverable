@@ -1,2 +1,3 @@
-#Visual Studio Code workspace
+#Visual Studio Code
 *.code-workspace
+.vscode*
